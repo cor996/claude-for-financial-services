@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07 10:30:29",
-  "last_radar_run_at": "2026-09-07 10:30",
-  "page_published_at": "2026-09-07 10:30",
-  "next_scheduled_run_at": "2026-09-07 11:00",
+  "generated_at": "2026-09-07 11:00:06",
+  "last_radar_run_at": "2026-09-07 11:00",
+  "page_published_at": "2026-09-07 11:00",
+  "next_scheduled_run_at": "2026-09-07 13:30",
   "update_mode": "live_api",
   "auto_update": "live_api_polling_5s_strict",
   "frontend_live_refresh_seconds": 5,
